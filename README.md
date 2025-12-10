@@ -1,4 +1,4 @@
-#GxLauncher
+# GxLauncher
 
 GxLauncher is a lightweight, Python-powered game launcher built for speed, customization, and zero nonsense.
 It tracks your playtime, supports custom covers, and keeps your entire game library clean and organized — whether it’s a clean install or something modded beyond recognition.
