@@ -1,0 +1,15 @@
+{
+    "grid_columns": 4,
+    "card_size": "medium",
+    "close_on_launch": false,
+    "track_playtime": true,
+    "show_playtime": true,
+    "sort_by": "name",
+    "sort_order": "asc",
+    "window_width": 1920,
+    "window_height": 1018,
+    "last_update_check": 1765460146,
+    "auto_check_updates": true,
+    "show_sidebar": true,
+    "theme": "dark"
+}
