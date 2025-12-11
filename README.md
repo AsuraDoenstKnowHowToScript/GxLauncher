@@ -12,6 +12,36 @@ Simple to use.
 Fully tweakable to your taste.
 
 
-# What's Coming
+# Changelog — GxLauncher v2.0
 
-In future builds, I’ll add a way to optimize the game before launch—kind of like how Steam does it, but in a… safer way, if I can call it that. Lmao.
+## Major Changes
+- Fully refactored project with a clean modular architecture
+- New Dark theme with smooth animations
+- Responsive grid layout (3–8 columns)
+- Reworked UI with sidebar details, editable fields, and improved game cards
+- Real-time search with multi-sorting options
+
+## New Features
+- Batch game import
+- More accurate playtime tracking (ignores sessions under 5 seconds)
+- Backup and restore system
+- Full stats reset
+- Automatic update check through GitHub
+- Loading animation
+- Extended error handling
+
+## Compatibility
+- Works with existing `games.json` and `config.json`
+- Auto-adds new fields
+- Automatic migration from v1.0
+
+## Backend Improvements
+- New core modules: config, database, theme, utils, updater
+- New UI modules: main window, game card, sidebar, dialogs
+- Better performance and lower idle usage
+
+## Fixes
+- Improved stability
+- Faster startup
+- Better validation and error messages
+
